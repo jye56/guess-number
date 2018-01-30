@@ -30,6 +30,3 @@ do
 		echo "You are correct!!!"
 	fi
 done
-
-
-
